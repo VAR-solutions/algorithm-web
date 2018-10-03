@@ -1,2 +1,2 @@
 # algorithm-web
-Website for our algorithm repository 
+Website for our algorithm repository.
